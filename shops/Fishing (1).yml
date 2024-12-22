@@ -1,0 +1,17 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: SALMON
+        sell: 3
+      '2':
+        material: PUFFERFISH
+        sell: 10
+      '3':
+        material: NAME_TAG
+        buy: 400
+        sell: 40
+      '4':
+        material: SADDLE
+        buy: 600
+        sell: 40
