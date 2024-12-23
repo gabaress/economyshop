@@ -21,3 +21,19 @@ pages:
         material: DIAMOND_HORSE_ARMOR
         buy: 900
         sell: 100
+      '6':
+        material: CHAINMAIL_HELMET
+        buy: 15
+        sell: 7
+      '7':
+        material: CHAINMAIL_CHESTPLATE
+        buy: 50
+        sell: 5
+      '8':
+        material: CHAINMAIL_LEGGINGS
+        buy: 70
+        sell: 6
+      '9':
+        material: CHAINMAIL_BOOTS
+        buy: 90
+        sell: 10
