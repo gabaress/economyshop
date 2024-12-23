@@ -1,0 +1,15 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: TURTLE_SCUTE
+        sell: 60
+      '2':
+        material: WET_SPONGE
+        sell: 1
+      '3':
+        material: SPONGE
+        sell: 3.13
+      '4':
+        material: SNIFFER_EGG
+        sell: 25
