@@ -1,0 +1,16 @@
+enable: true
+slot: 5
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: ENDER_PEARL
+  lore:
+  - '&4&loh no googliess'
+  displayname: '&c&lMob Drops'
+  name: '&c&lMob Drops'
