@@ -1,0 +1,16 @@
+enable: true
+slot: 2
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: NETHER_WART
+  lore:
+  - '&4&lRed for RedBrick'
+  displayname: '&c&lNether'
+  name: '&c&lNether'
