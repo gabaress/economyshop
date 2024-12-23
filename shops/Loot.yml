@@ -3,37 +3,37 @@ pages:
     items:
       '1':
         material: ENCHANTED_GOLDEN_APPLE
-        buy: 2000
-        sell: 1500
+        buy: 6400
+        sell: 1600
       '2':
         material: EXPERIENCE_BOTTLE
-        buy: 150
-        sell: 70
+        buy: 500
+        sell: 125
       '3':
         material: IRON_HORSE_ARMOR
-        buy: 500
+        buy: 200
         sell: 50
       '4':
         material: GOLDEN_HORSE_ARMOR
-        buy: 700
-        sell: 60
+        buy: 300
+        sell: 75
       '5':
         material: DIAMOND_HORSE_ARMOR
-        buy: 900
-        sell: 100
+        buy: 1000
+        sell: 250
       '6':
         material: CHAINMAIL_HELMET
-        buy: 2000
-        sell: 1500
+        buy: 3000
+        sell: 2000
       '7':
         material: CHAINMAIL_CHESTPLATE
-        buy: 2000
-        sell: 1500
+        buy: 3000
+        sell: 2000
       '8':
         material: CHAINMAIL_LEGGINGS
-        buy: 2000
-        sell: 1500
+        buy: 3000
+        sell: 2000
       '9':
         material: CHAINMAIL_BOOTS
-        buy: 2000
-        sell: 1500
+        buy: 3000
+        sell: 2000
