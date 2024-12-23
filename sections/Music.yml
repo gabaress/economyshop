@@ -1,5 +1,5 @@
 enable: true
-slot: 14
+slot: 0
 title: ''
 hidden: false
 sub-section: false
@@ -9,6 +9,9 @@ fill-item:
 nav-bar:
   mode: INHERIT
 item:
-  material: MUSIC_DISC_STRAD
-  displayname: '&6&lMusic'
-  name: '&6&lMusic'
+  material: CHEST
+  lore:
+  - '&e&lGold SCAR?'
+  #- '&8&ldont we all?'
+  displayname: '&6&lLoot'
+  name: '&6&lLoot'
