@@ -1,0 +1,6 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: GILDED_BLACKSTONE
+        sell: 30
