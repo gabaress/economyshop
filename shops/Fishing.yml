@@ -3,15 +3,15 @@ pages:
     items:
       '1':
         material: SALMON
-        sell: 3
+        sell: 2.08
       '2':
         material: PUFFERFISH
-        sell: 10
+        sell: 5
       '3':
         material: NAME_TAG
-        buy: 400
-        sell: 40
+        buy: 300
+        sell: 75
       '4':
         material: SADDLE
-        buy: 600
-        sell: 40
+        buy: 300
+        sell: 75
