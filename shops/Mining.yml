@@ -4,14 +4,14 @@ pages:
       '1':
         material: COAL
         buy: 2
-        sell: 1
+        sell: 0.50
       '2':
         material: DEEPSLATE_COAL_ORE
         buy: 25
-        sell: 20
+        sell: 6.25
       '3':
         material: DIAMOND
-        buy: 200
+        buy: 400
         sell: 100
       '4':
         material: AMETHYST_SHARD
