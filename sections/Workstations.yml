@@ -1,5 +1,5 @@
 enable: true
-slot: 12
+slot: 1
 title: ''
 hidden: false
 sub-section: false
@@ -9,9 +9,9 @@ fill-item:
 nav-bar:
   mode: INHERIT
 item:
-  material: GRINDSTONE
+  material: DIAMOND_ORE
   lore:
-  - '&8&lGive your villager a job,'
-  - '&8&lor use it for your own.'
-  displayname: '&7&lWorkstations'
-  name: '&7&lWorkstations'
+  - '&8&lROI loves MINERS...'
+  - '&8&ldont we all?'
+  displayname: '&7&lMining'
+  name: '&7&lMining'
