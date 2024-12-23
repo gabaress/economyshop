@@ -23,17 +23,17 @@ pages:
         sell: 100
       '6':
         material: CHAINMAIL_HELMET
-        buy: 15
-        sell: 7
+        buy: 2000
+        sell: 1500
       '7':
         material: CHAINMAIL_CHESTPLATE
-        buy: 50
-        sell: 5
+        buy: 2000
+        sell: 1500
       '8':
         material: CHAINMAIL_LEGGINGS
-        buy: 70
-        sell: 6
+        buy: 2000
+        sell: 1500
       '9':
         material: CHAINMAIL_BOOTS
-        buy: 90
-        sell: 10
+        buy: 2000
+        sell: 1500
