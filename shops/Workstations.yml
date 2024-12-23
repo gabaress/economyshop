@@ -6,21 +6,25 @@ pages:
         buy: 8
         sell: 2
       '2':
+        material: DEEPSLATE_COAL_ORE
+        buy: 4000
+        sell: 3000
+      '3':
         material: DIAMOND
         buy: 400
         sell: 200
-      '3':
+      '4':
         material: AMETHYST_SHARD
         sell: 30
-      '4':
+      '5':
         material: EMERALD_ORE
         sell: 100
-      '5':
+      '6':
         material: DEEPSLATE_EMERALD_ORE
         sell: 150
-      '6':
+      '7':
         material: OBSIDIAN
         sell: 8
-      '7':
+      '8':
         material: GLOW_LICHEN
         sell: 5
