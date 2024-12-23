@@ -1,0 +1,17 @@
+enable: true
+slot: 4
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: TUBE_CORAL
+  lore:
+  - '&e&lLets go swimminnn'
+  #- '&8&ldont we all?'
+  displayname: '&9&lOcean Exploration'
+  name: '&9&lOcean Exploration'
