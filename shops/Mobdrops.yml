@@ -1,0 +1,18 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: ZOMBIE_HEAD
+        sell: 1500
+      '2':
+        material: SKELETON_SKULL
+        sell: 1500
+      '3':
+        material: CREEPER_HEAD
+        sell: 1500
+      '4':
+        material: PIGLIN_HEAD
+        sell: 3000
+      '5':
+        material: PHANTOM_MEMBRANE
+        sell: 2
