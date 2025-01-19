@@ -3,7 +3,7 @@ pages:
     items:
       '1':
         material: ENCHANTED_GOLDEN_APPLE
-        buy: 6400
+        buy: 69
         sell: 1600
       '2':
         material: EXPERIENCE_BOTTLE
